@@ -1,0 +1,260 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A few ingredients against the venom in William Roger's book, stiled, The Christian-Quaker distinguished, &amp;c.</title>
+            <author>Richardson, Richard, 1623?-1689.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91786</idno>
+            <idno type="STC">Wing R1394</idno>
+            <idno type="STC">ESTC R42313</idno>
+            <idno type="EEBO-CITATION">36272931</idno>
+            <idno type="OCLC">ocm 36272931</idno>
+            <idno type="VID">150232</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91786)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150232)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2237:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A few ingredients against the venom in William Roger's book, stiled, The Christian-Quaker distinguished, &amp;c.</title>
+                  <author>Richardson, Richard, 1623?-1689.</author>
+               </titleStmt>
+               <extent>24 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Bringhurst ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Friends' Library (London, England).</note>
+                  <note>Includes bibliographical references in marginal notes.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Rogers, William, fl. 1680-1685. --  Christian Quaker distinguished.</term>
+               <term>Society of Friends --  Controversial literature.</term>
+               <term>Society of Friends --  Apologetic works.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:150232:1"/>
+            <head>A Few <hi>Ingredients</hi> Againſt the VENOM IN <hi>William Roger</hi>'s Book, Stiled, The <hi>Chriſtian Quaker Diſtinguiſhed,</hi> &amp;c.</head>
+            <p>HAving Read <hi>W. R</hi>'s. Book, a like thing has appeared to me therein, to that, which at firſt aroſe a<g ref="char:EOLhyphen"/>mongſt the <hi>Primitive Chriſtians,</hi> called, <hi>Gnoſticks,</hi> mentio<g ref="char:EOLhyphen"/>ned in ſome Epiſtles (though not un<g ref="char:EOLhyphen"/>der that Name) as of <hi>Peter</hi> and <hi>Jude.</hi> And among the firſt <hi>Proteſtants,</hi> in thoſe called <hi>Libertines</hi> and <hi>Antinomi<g ref="char:EOLhyphen"/>ans,</hi> which ſignifies, ſuch as were for
+<pb n="2" facs="tcp:150232:2"/>Licentiouſneſs, and againſt Law. For looſe Liberty has been, is, and will be the Riſe, Progreſs, and End of that <hi>Spirit,</hi> in its Work; and to gratify the Enemies of <hi>Truth,</hi> in giving them Advantages, and Arguments againſt it. To anticipate which, and the preju<g ref="char:EOLhyphen"/>dice that may ariſe from it in ſuch as cannot diſtinguiſh of <hi>Popiſh</hi> Impoſition, implicite Faith, <hi>&amp;c.</hi> nor of the Lati<g ref="char:EOLhyphen"/>tude of our Charity, and ſtraitneſs of our Adverſaries eſpecially, are theſe Words written.</p>
+            <p>Therefore, Firſt, let it be conſidered, That in ſeveral Ages, <hi>God</hi> raiſed up ex<g ref="char:EOLhyphen"/>traordinary Men, as <hi>Enoch, Noah, A<g ref="char:EOLhyphen"/>braham, Moſes,</hi> the <hi>Judges, David,</hi> the <hi>Prophets, Cyrus,</hi> the <hi>Maccabees.</hi> After, in the time of the Goſpel, the <hi>Apoſtles</hi> and <hi>Diſciples,</hi> whoſe Declaration of the Goſpel it was a Sin not to Believe and Obey; <hi>God</hi> Commanding all to Repent, and come to the Truth, affor<g ref="char:EOLhyphen"/>ding Means. <hi>Paul,</hi> the <hi>Apoſtle</hi> of the <hi>Gentiles,</hi> gave ſeveral Commands as from the <hi>Lord.</hi> And, What is Sin, if it be not to be unbelieving, and diſobedient
+<pb n="3" facs="tcp:150232:2"/>to <hi>God</hi>'s Commandements? The ſame word in <hi>Greek,</hi> in which Tongue the <hi>Apostle</hi> Wrote,
+<note place="margin">Apeitheia.</note> ſignifies <hi>Vn<g ref="char:EOLhyphen"/>belief</hi> and <hi>Diſobedience.</hi> And the <hi>Spirit</hi> that now Rules in the Children of Unbelief or Diſobedience, cryes out, <hi>Impoſition, Implicite Faith, to believe as the Church believes.</hi> Which becauſe many in the <hi>Church of Rome</hi> ſtreined too far,
+<note place="margin">
+                  <hi>Hoſius, Pighi<g ref="char:EOLhyphen"/>us, Staphylus, Stapleton, Bel<g ref="char:EOLhyphen"/>larmin.</hi> and o<g ref="char:EOLhyphen"/>thers. See <hi>Jewel</hi> againſt <hi>Harding,</hi> Art. laſt.</note> for the Authority of their falſe Church, calling, <hi>Igno<g ref="char:EOLhyphen"/>rance the Mother of De<g ref="char:EOLhyphen"/>votion,</hi> and Applauding the Faith of the <hi>Catholick Collier.</hi> That becoming of ill Fame amongſt <hi>Proteſtants,</hi> under pretence thereof, a looſer ſort took oc<g ref="char:EOLhyphen"/>caſion to caſt off all Submiſſion, Obe<g ref="char:EOLhyphen"/>dience, and Government, not only in the <hi>Church,</hi> but <hi>Common-Wealth</hi> alſo. But the Sober of both ſorts kept out of thoſe extreams:
+<note place="margin">
+                  <hi>Vid.</hi> D. <hi>Pot<g ref="char:EOLhyphen"/>ter.</hi> V.C. <hi>Oxon.</hi> Anſ. to <hi>Char. Miſt.</hi> §. 6. p. 61. part 1.</note> And neither denied the great Uſe of that Diſtincti<g ref="char:EOLhyphen"/>on, as having ground in Reaſon and Nature, between that Be<g ref="char:EOLhyphen"/>lief
+<pb n="4" facs="tcp:150232:3"/>and Obedience, which hath a more clear and full Knowledge and Perſwa<g ref="char:EOLhyphen"/>ſion; and that which hath a leſs: be<g ref="char:EOLhyphen"/>tween that Unity of Faith and Obedi<g ref="char:EOLhyphen"/>ence, which is in the more knowing, and that which is in the leſs knowing People. Except this be admitted, the <hi>Service</hi> of <hi>Government, Mutual So<g ref="char:EOLhyphen"/>ciety Help,</hi> and <hi>Edification</hi> would be much impaired at leaſt. For if one Man receive not of, nor deliver to a<g ref="char:EOLhyphen"/>nother by Teaching and Believing, 'tis as if one Lived as an <hi>Eremite</hi> or <hi>An<g ref="char:EOLhyphen"/>chorite,</hi> alone in a Wilderneſs or Wall, under the Notion of excluding <hi>Tra<g ref="char:EOLhyphen"/>dition,</hi> and <hi>Implicite Faith,</hi> and <hi>O<g ref="char:EOLhyphen"/>bedience;</hi> and ſo all the Service in <hi>Ma<g ref="char:EOLhyphen"/>giſtracy</hi> and <hi>Miniſtry.</hi> And I can ea<g ref="char:EOLhyphen"/>ſily Aſſent to ſuch as ſay, That the ableſt, and Knowingeſt Men in the World, Receive ſomething this way by other: And again, not the Igno<g ref="char:EOLhyphen"/>ranteſt, but that have an expreſs par<g ref="char:EOLhyphen"/>ticular diſtinct <hi>Knowledge</hi> joyned to the Aſſent of <hi>Be<g ref="char:EOLhyphen"/>lief,</hi>
+               <note place="margin">Neceſſitate Medii.</note> in ſome Points moſt ne<g ref="char:EOLhyphen"/>ceſſary. It is a Maxim, <hi>A Learner
+<pb n="5" facs="tcp:150232:3"/>muſt Believe.</hi> But all may Learn. Who would take it for a good Reaſon in a Learner, for refuſing to be Taught any thing,
+<note place="margin">
+                  <hi>But not an ab<g ref="char:EOLhyphen"/>ſolute neceſſity of an outward Teacher.</hi> Ad eſſe, <hi>but</hi> ad be<g ref="char:EOLhyphen"/>ne eſſe, <hi>as is ſaid.</hi>
+               </note> or to obſerve Order; be<g ref="char:EOLhyphen"/>cauſe he <hi>Knew it not,</hi> nor <hi>Underſtood it, as well as his Teacher?</hi> Or for his Teach<g ref="char:EOLhyphen"/>er, to refuſe to receive My<g ref="char:EOLhyphen"/>ſteries Revealed, becauſe he had not a <hi>Diſtinct Knowledge</hi> of them; by the Reaſon and Manner how they are True, by a curious Diſquiſition?
+<note place="margin">
+                  <hi>Aug. contr. ep. Fund.</hi> cap. 4. <hi>Orig. Arch.</hi> l. 1. <hi>Cyril. Hier.</hi> cat. 11.</note> Which Primitive Teach<g ref="char:EOLhyphen"/>ers diſowned &amp; reproved. And ſo both <hi>Extremes</hi> are to be avoided: One in the Defect, deſpiſing Authority, even the Higheſt, and that even in a Young State, ſeeking Liberty of Judgment, before the Uſe of Judgment, and ripe<g ref="char:EOLhyphen"/>neſs of it;
+<note place="margin">
+                  <hi>As is defended by</hi> Proteſtant <hi>Teachers, as</hi> Keckerman <hi>&amp; others.</hi>
+               </note> (for there is an Age not only of Body, but Mind, and in order of Nature, Authority Good and True (that's of <hi>God</hi>) goes before Ripeneſs of Judgement.)
+<pb n="6" facs="tcp:150232:4"/>The other in exceſs, namely Folly, by too much Credulity, to admit any Au<g ref="char:EOLhyphen"/>thority alwayes; and to prefer (or e<g ref="char:EOLhyphen"/>qual) outward Teſtimonies, before Rea<g ref="char:EOLhyphen"/>ſons drawn from the very nature of the Things themſelves. Both theſe are Cenſurable. Now to the Adverſaries which are of another Profeſſion, which may be apt to cloſe with the Accuſa<g ref="char:EOLhyphen"/>tion of <hi>Popery</hi> in this particular, taking Advantage againſt Us thereby, an Ar<g ref="char:EOLhyphen"/>gument to them.
+<note place="margin">Ad Hominem.</note> How can they without Condem<g ref="char:EOLhyphen"/>ning themſelves, who proceed to make uſe of an <hi>Outward Compulſion,</hi> as do the <hi>Papists,</hi> joyn with the Accuſation of Us for <hi>Popery,</hi> as <hi>Impoſers,</hi> for claiming and exerciſing only the ſame which the firſt <hi>Proteſtants</hi> did,
+<note place="margin">
+                  <hi>Sadeel, Calvin, D. Sparks, Bax<g ref="char:EOLhyphen"/>ter,</hi> &amp; others.</note> namely, <hi>Diſowning Succeſſion of Miniſters from the Papiſts;</hi> and therefore, an extraordinary raiſing up of Miniſters (or Apoſtles as they ſay) immediately from <hi>God,</hi> to raiſe up a Teſtimony, a Reformation out of the Apoſtacy, and Doctrin alſo immedi<g ref="char:EOLhyphen"/>ately
+<pb n="7" facs="tcp:150232:4"/>from the <hi>Spirit</hi> in the Interpre<g ref="char:EOLhyphen"/>tation of <hi>Scripture,</hi> as well as in Practice; and in his Power and Wiſdom in taking Expedients in <hi>Church-Government</hi> and Cenſure? And ſeeing We produce the ſame proof as They did (or do) that is,
+<note place="margin">
+                  <hi>Sadeel</hi> de. leg. vocat. Miniſtr.</note> the power and efficacy of Doctrin and Govern<g ref="char:EOLhyphen"/>ment; and the aſſent, and anſwer of the Receivers of them and it; (They claiming but a Succeſſion of mediate Miniſters from the firſt <hi>Prote<g ref="char:EOLhyphen"/>ſtant</hi> Reformers by Tradition (as in pretence, <hi>Papists</hi> do their's from the A<g ref="char:EOLhyphen"/>poſtles) with a Tradition of Doctrin in Scripture-interpretations, which they muſt needs do, if they deny an immediate Call and Teaching) How can they deny the <hi>Lord</hi> the ſame Li<g ref="char:EOLhyphen"/>berty in proceeding in a further Refor<g ref="char:EOLhyphen"/>mation; and even the like proceedings in Church-Affairs, in cenſuring the Li<g ref="char:EOLhyphen"/>bertine Principles that the ſubtil Ad<g ref="char:EOLhyphen"/>verſary hath Sown, and Raiſed in Our Times, as in theirs, as alſo in the Times of the <hi>Apoſtles:</hi> Uſing no other Wea<g ref="char:EOLhyphen"/>pons than They, <hi>
+                  <hi>viz.</hi> Spiritual?</hi> And
+<pb n="8" facs="tcp:150232:5"/>ſeeing 'tis Confeſs'd by all Parties, That <hi>God</hi> hath not uſed the ſame Form,
+<note place="margin">
+                  <hi>Idem. adverſ.</hi> Turrian <hi>ſoph. loc.</hi> 10.12. <hi>D.</hi> Sutclif. <hi>falſe Sembl.</hi> c. 1.</note> and State in all A<g ref="char:EOLhyphen"/>ges, but different, and ma<g ref="char:EOLhyphen"/>nifold, as in <hi>Outward Go<g ref="char:EOLhyphen"/>vernment</hi> in the <hi>World,</hi> ſo in his <hi>Church;</hi> How can they, &amp; <hi>Liber<g ref="char:EOLhyphen"/>tines</hi> on the other hand, deny him his Li<g ref="char:EOLhyphen"/>berty (having not tyed himſelf by pro<g ref="char:EOLhyphen"/>miſe) to preſcribe through his Servants, what way he pleaſeth in his Wiſdom to appoint, for reſtraint of their Licen<g ref="char:EOLhyphen"/>tiouſneſs in a natural and proper Goſpel-Way, contrary to which it is againſt his Nature to proceed; but according to the Nature of that perverſe and crooked <hi>Serpent,</hi> who goes contrary to the Wayes of <hi>God,</hi> putting <hi>Dark<g ref="char:EOLhyphen"/>neſs</hi> for <hi>Light,</hi> and <hi>Light</hi> for <hi>Dark<g ref="char:EOLhyphen"/>neſs; Fleſh</hi> for <hi>Spirit,</hi> and <hi>Spirit</hi> for <hi>Fleſh; Carnal Weapons</hi> for <hi>Spi<g ref="char:EOLhyphen"/>ritual,</hi> and <hi>Spiritual</hi> for <hi>Carnal; A<g ref="char:EOLhyphen"/>poſtate</hi> for <hi>Chriſtian,</hi> and <hi>Chriſtian</hi> for <hi>Apoſtate; Church Cenſure</hi> for <hi>Per<g ref="char:EOLhyphen"/>ſecution,</hi> and <hi>Perſecution</hi> for <hi>Church Cenſure: Self Will</hi> for <hi>Tender Con<g ref="char:EOLhyphen"/>ſcience,</hi> and <hi>Tender Conſcience</hi> for
+<pb n="9" facs="tcp:150232:5"/>
+               <hi>Self Will.</hi> And knowing the Nature and Tendency of that <hi>Spirit</hi> to <hi>Perſecu<g ref="char:EOLhyphen"/>tion,</hi> though complaining cauſeleſly of <hi>Force,</hi> and pleading ſo much for <hi>Li<g ref="char:EOLhyphen"/>berty,</hi> comparing in <hi>W. Rs.</hi> Book, <hi>Part</hi> 4. <hi>Pag.</hi> 4. with <hi>Part</hi> 3. <hi>Pag.</hi> 64. I think there's Reaſon enough given to put the Queſtion, <hi>
+                  <hi>viz.</hi> What he underſtands by Delivering to Satan?</hi> For <hi>Satan</hi> ſignifying an <hi>Adverſary</hi> or <hi>Enemy,</hi> if as he gives to underſtand, <hi>Paul</hi> underſtood not thereby the <hi>Devil</hi> (according to common acceptation of ordinary Capacities) who, as they Write, did Beſet,
+<note place="margin">
+                  <hi>See</hi> Pſ. 78.49. 1 Sam. 16.14. Judg. 9.43. Cave's <hi>prim.</hi> Chriſtianity. Oecumenius, <hi>and others.</hi>
+               </note> Vex, and Trouble thoſe that were under <hi>Church Cenſure,</hi> as ſuch as were for that time Seized, and in Poſſeſſion of him, or ſo. What other Adverſary will he find, as a fit Expedient for the Deſtruſtion of the Fleſh? Will he have him then to intend the <hi>Heathen Magistrate</hi> to Deſtroy their Body (for no other Ma<g ref="char:EOLhyphen"/>giſtrate than <hi>Heathen,</hi> then was) as the <hi>Papiſts</hi> do now by their Magiſtrates,
+<pb n="10" facs="tcp:150232:6"/>and as the Tendency hereof is at this juncture, accuſing Us of <hi>Popery,</hi> to ex<g ref="char:EOLhyphen"/>poſe Us to the People, and <hi>Hypocriſy of masked Papists, Popiſhly</hi> affected Of<g ref="char:EOLhyphen"/>ficers, and <hi>Time-ſervers,</hi> and <hi>Self-ſer<g ref="char:EOLhyphen"/>vers,</hi> to ſerve themſelves of Us, under ſuch pretence? But may not ordinary Capacities reaſonably Anſwer, That ſeeing the <hi>Chriſtians Weapons</hi> were not <hi>Carnal,</hi> but <hi>Spiritual;</hi> not <hi>Out<g ref="char:EOLhyphen"/>ward,</hi> but <hi>Inward;</hi> the Delivery was to a <hi>Spiritual Adverſary,</hi>
+               <note place="margin">
+                  <hi>See</hi> Beza's <hi>large Notes on</hi> 1 Tim. 1.19.20. 1 Cor. 5.5.</note> for the <hi>Deſtruction of the Fleſh Spiritually,</hi> and Fi<g ref="char:EOLhyphen"/>guratively underſtood, for Carnal Mind, that the Spi<g ref="char:EOLhyphen"/>rit of the Mind might be Saved, &amp;c. And if Conſulting the Light (to uſe his words) do not tell him ſo;
+<note place="margin">
+                  <hi>See</hi> Beza's <hi>leſſer Notes, with whom a<g ref="char:EOLhyphen"/>grees</hi> Marlo<g ref="char:EOLhyphen"/>rat.</note> Why can he not con<g ref="char:EOLhyphen"/>ſult the <hi>Marginal Notes</hi> for this, as well as for the Wo<g ref="char:EOLhyphen"/>men in the <hi>Kings;</hi> and clear it to Us, <hi>That he intends no outward Force about Religion,</hi> to ſa<g ref="char:EOLhyphen"/>tisfy Friends, having given them more cauſe hereby to Queſtion it, than <hi>G. F.</hi>
+               <pb n="11" facs="tcp:150232:6" rendition="simple:additions"/>becauſe he has not impertinently ex<g ref="char:EOLhyphen"/>preſſed it to his Mind, in <hi>Part</hi> 4. <hi>Pag.</hi> 66. though in abundance of places in his Books? All his proof is all Negative, which proves nothing againſt Hundreds of Affirmities proving the contrary, But his Light denying the Apoſtles de<g ref="char:EOLhyphen"/>livering to <hi>Satan,</hi> to be to a <hi>Spiritual Adverſary</hi> (the <hi>Devil</hi>) concludes it was to an <hi>Outward Carnal;</hi> for there's not a Third. So joyning to the <hi>Pa<g ref="char:EOLhyphen"/>piſts,</hi> who have an <hi>Outward Devil,</hi> an <hi>Vgly Tormentor</hi> in their <hi>Inquiſi<g ref="char:EOLhyphen"/>tion,</hi> in imitation (like other things in the Apoſtacy.) So in imitation of the Primitive Church, who had no Magi<g ref="char:EOLhyphen"/>ſtrates, and ſo only Spiritual Cenſures, their <hi>Priests</hi> appropriating the Church to themſelves, claim an exemption from Magiſtrates Power, even in Tem<g ref="char:EOLhyphen"/>porals; and yet, according to the con<g ref="char:EOLhyphen"/>fuſed Nature of that <hi>Spirit,</hi> Puniſh o<g ref="char:EOLhyphen"/>thers by them for Spirituals. In like man<g ref="char:EOLhyphen"/>ner, there remains in their <hi>Qunneries</hi> ſome imperfect Footſteps of <hi>Womens Services</hi> in the Primitive Times,
+<note place="margin">Polydor. Virgil.</note> as is confeſs'd
+<pb n="12" facs="tcp:150232:7"/>by themſelves: as in the Women that wove Hangings for the Grove in the <hi>Jews</hi> Apoſtacy to Idolatry, is ſhewn ſome Footſteps of <hi>Womens Services</hi> in the Temple formerly (as in falſe Propheteſ<g ref="char:EOLhyphen"/>ſes <hi>Sowing Pillows,</hi> &amp;c. of the true Pro<g ref="char:EOLhyphen"/>pheteſſes) by which imperfect Foot<g ref="char:EOLhyphen"/>ſteps, things may ſometimes be traced upwards: But that's not all to prove it. For both the Scriptures and Hiſto<g ref="char:EOLhyphen"/>ries, Declare that <hi>God</hi> had his Services for Women (which is ſo much ſtruck at) both without the Law, under the Law, and under the Goſpel, and is ge<g ref="char:EOLhyphen"/>nerally confeſs'd. Many <hi>Proteſtants</hi> (as well as <hi>Papiſts</hi>) acknow<g ref="char:EOLhyphen"/>ledge,
+<note place="margin">B. R. Monta<g ref="char:EOLhyphen"/>gue <hi>appar.</hi> 3. J. Maxwel, <hi>and others.</hi>
+               </note> That thoſe call'd <hi>Si<g ref="char:EOLhyphen"/>byis,</hi> that Propheſied of <hi>Christ,</hi> were endued with the Spirit of <hi>God.</hi> To paſs by <hi>Deborah, Hulda,</hi> &amp;c. and come to ſuch as are ſpecially oppoſed here, ſuch as had a part in outward Services diſtinct.</p>
+            <p>
+               <hi>Beza</hi> ſpeaking of <hi>Anna,</hi> ſayes, <hi>Such Honourable Widdows whereof mention ſeems to be made,</hi>
+               <note place="margin">Beza's <hi>larger Notes on</hi> luc. 2.</note> 1 Sam. 2.22. <hi>Were employed
+<pb n="13" facs="tcp:150232:7"/>in many dayly Miniſteries of the Tem<g ref="char:EOLhyphen"/>ple, and of the Poor; which manner in ſome ſort, the Apoſtles after retained.</hi>
+            </p>
+            <p>
+               <hi>Junius,</hi> that Tranſlater of the <hi>Bible,</hi> ſpeaking of that manner of <hi>Deaconeſſes</hi> in the primi<g ref="char:EOLhyphen"/>tive Times, deſires,
+<note place="margin">Jun. <hi>Eccleſ. lib.</hi> 2. <hi>cap.</hi> 4.</note> 
+               <hi>The Re<g ref="char:EOLhyphen"/>ſtitution thereof, in his Time.</hi> Such a Reſtitution in our Times, makes this ado.</p>
+            <p>
+               <hi>Joſephus</hi> deſcribes a <hi>Womans Houſe in the Temple,
+<note place="margin">Joſeph. <hi>de. bel<g ref="char:EOLhyphen"/>lo. Jud.</hi> l. 6. c. 6.</note> for themſelves and ſtrangers that were Women.</hi>
+            </p>
+            <p>
+               <hi>Cave, Bucan, Gualter,</hi> and others confirm the <hi>
+                  <g ref="char:V">Ʋ</g>ſe of Deaco<g ref="char:EOLhyphen"/>neſſes</hi> in the Goſpel-Times,
+<note place="margin">
+                  <hi>Sutclif.</hi> ibid.</note> and <hi>Presbyterians</hi> deſired them.</p>
+            <p>So that the thing is without all Que<g ref="char:EOLhyphen"/>ſtion, as may be fully cleared hereafter.</p>
+            <p>For the endeavouring of the promo<g ref="char:EOLhyphen"/>ting of which Reſtitution, how the Enemy buſles to hinder it. In this Book, carping at the Alluſions from Scriptures in Favour of it, as not Ma<g ref="char:EOLhyphen"/>terial. Whereas we find in Scripture, many more uſed by the Apoſtles a<g ref="char:EOLhyphen"/>gainſt the <hi>Jews,</hi> and may well ſuppoſe many more, while they Reaſoned with
+<pb n="14" facs="tcp:150232:8"/>them from the Scriptures. One ſpeaks of <hi>Fifty,</hi>
+               <note place="margin">Turrianus <hi>Ch.</hi> 2.23.</note> out of the Book of <hi>Iſaiah</hi> onely. As <hi>Matthew</hi> alludes for the name <hi>Na<g ref="char:EOLhyphen"/>zarene,</hi> ſignifying <hi>A Branch, to the Prophets,</hi> ſpeaking of the <hi>Branch. Paul</hi> alludes to <hi>Sarah,</hi> and <hi>Hagar, Je<g ref="char:EOLhyphen"/>ruſalem,</hi> and <hi>Sinai,</hi> as types. <hi>Pſal.</hi> 110. is alledged to prove <hi>Chriſt's Ever<g ref="char:EOLhyphen"/>laſting Prieſthood,</hi> &amp;c. How would thoſe <hi>Proofs</hi> take with theſe Men in theſe Times, who ſo deride <hi>Examples</hi> of <hi>Vertuous Women</hi> to be mentio<g ref="char:EOLhyphen"/>ned for <hi>Encouragement,</hi> as thoſe that Lamented <hi>Jephtah</hi>'s Daughter? The Queſtion is, Whether that Humilia<g ref="char:EOLhyphen"/>tion was not a Religious Act. And, Was not <hi>Rahab</hi> a <hi>
+                  <hi>Vertuous Wo<g ref="char:EOLhyphen"/>man?</hi> Heb.</hi> 11. <hi>ver.</hi> 31. And, Why not then <hi>Micah</hi>'s Mother (which he calls <hi>That Abominable Quotation;</hi>) nay, more <hi>Religious</hi> alſo, ſeeing <hi>She Dedicated the Silver to the Lord;</hi> and <hi>What ſhe did, ſhe did it to the Lord,</hi>
+               <note place="margin">Sebomenai. <hi>Ch.</hi> 16.13. <hi>&amp;</hi> 13.50.</note> though Ignorantly? The Woman in the <hi>Acts</hi> were <hi>Devout</hi> or <hi>Religi<g ref="char:EOLhyphen"/>ous,</hi>
+               <pb n="15" facs="tcp:150232:8" rendition="simple:additions"/>though they had <hi>zeal with<g ref="char:EOLhyphen"/>out Knowledge.</hi> And nothing is proved againſt her being <hi>
+                  <g ref="char:V">Ʋ</g>ertuous.</hi> And it ſeems there was a <hi>Religi<g ref="char:EOLhyphen"/>ous Houſe; <hi>for</hi> Micah <hi>had got a</hi> Le<g ref="char:EOLhyphen"/>vite, <hi>and an</hi> Ephod,</hi> &amp;c. And the Images were <hi>Teraphim,</hi> which <hi>Jerom,</hi>
+               <note place="margin">Jerom. <hi>on</hi> 1 King 22. <hi>&amp;</hi> 6.16.</note> and <hi>Aqui<g ref="char:EOLhyphen"/>la</hi> ſay, were <hi>Cherubim,</hi> and <hi>Seraphim,</hi> which were the Ornaments of the Temple; and that they were Furni<g ref="char:EOLhyphen"/>ture,
+<note place="margin">
+                  <hi>So</hi> Hamahal<g ref="char:EOLhyphen"/>zen <hi>the</hi> Perſi<g ref="char:EOLhyphen"/>an. J. Gafferel. <hi>cur. ſect.</hi> 5.</note> and Ornaments for <hi>Priests,</hi> as the <hi>Ephod,</hi> &amp;c. See <hi>Hoſ.</hi> 3.4. But I ſhall not ſtand to Excuſe, nor Diſpute that. Though it may ſeem, the <hi>Lord</hi> winked at that time of Ig<g ref="char:EOLhyphen"/>norance, when the Word of the <hi>Lord</hi> was precious, till <hi>Samuel.</hi> And what Wonder the Hirelings did not through Covetouſneſs, and By-reſpects, inſtruct them perfectly in the Law of <hi>Moſes,</hi> when as ſome Write, that in former times,
+<note place="margin">
+                  <hi>D.</hi> Favour <hi>An<g ref="char:EOLhyphen"/>tiq. tri. c.</hi> 13.</note> ſome <hi>Thouſands</hi> of Pariſhes never heard the Scriptures Read to their Underſtanding,
+<pb n="16" facs="tcp:150232:9"/>and ſcarce one <hi>Prieſts</hi> Study in a <hi>Hun<g ref="char:EOLhyphen"/>dred</hi> had them; and had Images. Will you that are for <hi>Liberty,</hi> impoſe ſo upon them what they knew not, nor proba<g ref="char:EOLhyphen"/>bly could, in ſome times, &amp; caſt all out? It's ſaid of the People of <hi>Samaria,
+<note place="margin">2 King. 17.31, 41.</note> 
+                  <hi>They Feared the Lord, and Served their Graven Images.</hi>
+               </hi> And many Ages af<g ref="char:EOLhyphen"/>ter they were not com'd up to <hi>Moſes</hi> Law ſtrictly; yet <hi>Christ</hi> prefers the <hi>Mercy</hi> of the <hi>Samaritan,</hi>
+               <note place="margin">
+                  <hi>Luc.</hi> 10.33. <hi>&amp;</hi> 17.16, 18.</note> and <hi>Leper's Thankfulneſs</hi> not comed to the Form, before the <hi>Levit</hi> and <hi>Prieſt,</hi> the higheſt in it without them; yea, the <hi>Woman of Canaan's Faith before the Iſraelite's. Blindneſs and Pride,</hi> makes Hipocriſy not diſcern the differences of Times and States,
+<note place="margin">
+                  <hi>Mat.</hi> 19.18.</note> con<g ref="char:EOLhyphen"/>ſidering that <hi>Much was win<g ref="char:EOLhyphen"/>ked at, and ſuffered to the <hi>Iews,</hi> be<g ref="char:EOLhyphen"/>cauſe of the Hardneſs of their Hearts.</hi>
+               <note place="margin">
+                  <hi>Chryſoſtom, Jerom. Euthymius. Theophi<g ref="char:EOLhyphen"/>lact. Rabanus, Lyra. A<g ref="char:EOLhyphen"/>quinas</hi> &amp; others, on <hi>Jer.</hi> 7. <hi>Iſa.</hi> 66. <hi>Mat.</hi> 5. and others.</note> And thoſe called <hi>Fathers</hi> and <hi>School-Men,</hi> note, <hi>That God indulged Sacrifi<g ref="char:EOLhyphen"/>ces,</hi>
+               <pb n="17" facs="tcp:150232:9"/>&amp;c. <hi>to them, which were among the Heathen.</hi> And the <hi>Heathen</hi> Wri<g ref="char:EOLhyphen"/>ters ſay, <hi>That ſeveral Cuſtoms were amongſt them, that were amongſt the</hi> Jews, as <hi>Herodotus</hi> the Antient <hi>Greek Hiſtorian,</hi> who himſelf Travelled a<g ref="char:EOLhyphen"/>mongſt the <hi>Egyptians,</hi> tells of them, and the <hi>Perſians;</hi> without probability of the contrary paſſage, according to ſome.
+<note place="margin">Heb. 9.10. <hi>Baptiſms.</hi>
+               </note> Yea, to come nea<g ref="char:EOLhyphen"/>rer to that which is con<g ref="char:EOLhyphen"/>tinued, even to our Times, and has been winked at in (many, que<g ref="char:EOLhyphen"/>ſtionleſs) Men fearing <hi>God,</hi> and work<g ref="char:EOLhyphen"/>ing Righteouſneſs; and doubtleſs ac<g ref="char:EOLhyphen"/>cepted of him, <hi>viz. <hi>Baptiſm:</hi>
+               </hi>
+               <note place="margin">
+                  <hi>Tacitus. Arrianus. Polyaenus. Heſychius. Apulcius. R. Elias</hi> de <hi>Wides. Herbanus Ju<g ref="char:EOLhyphen"/>daeus. Petr. Bleſenſis. Tertullian Nonnus</hi> on <hi>Nazianzen Joſeph.</hi> Vice-comes. <hi>Anti. Marſil.</hi> See <hi>J. Sel<g ref="char:EOLhyphen"/>den</hi> de Succeſſione ad leg. <hi>Jud. c.</hi> 26.</note> Both <hi>Hea<g ref="char:EOLhyphen"/>then,</hi> primitive <hi>Chriſti<g ref="char:EOLhyphen"/>an,</hi> and other <hi>Writers</hi> agree, that it was a<g ref="char:EOLhyphen"/>mong the <hi>Heathen</hi> pra<g ref="char:EOLhyphen"/>ctiſed in their Imita<g ref="char:EOLhyphen"/>tions, or entrances in<g ref="char:EOLhyphen"/>to their Myſteries of <hi>Religions,</hi> even amongſt the Ancienteſt <hi>Egyptians, Perſians,</hi> and <hi>Graecians:</hi> amongſt the <hi>Jews</hi> in recei<g ref="char:EOLhyphen"/>ving
+<pb n="18" facs="tcp:150232:10"/>in their <hi>Proſelytes</hi> (after continued among them, when turned <hi>Chriſtians,</hi> conſiſting of them moſtly at firſt) as may be Read in theſe Writers. Que<g ref="char:EOLhyphen"/>ſtionleſs, Charity has cauſe to Con<g ref="char:EOLhyphen"/>clude, that if a Prophet of the <hi>Lord,</hi> had come to <hi>Micah</hi>'s Family, that pro<g ref="char:EOLhyphen"/>ceeded in the Work of Reformation in that dark Time, he would have been Received as <hi>Elias</hi> was, and his Meſ<g ref="char:EOLhyphen"/>ſage. And will you that pretend, not only to <hi>More Liber<g ref="char:EOLhyphen"/>ty,</hi>
+               <note place="margin">Argumenta ad hominem.</note> but alſo to <hi>More Cha<g ref="char:EOLhyphen"/>rity,</hi> and own an <hi>
+                  <g ref="char:V">Ʋ</g>niver<g ref="char:EOLhyphen"/>ſality of Light and Grace,</hi> and <hi>More Reformation,</hi>
+               <note place="margin">In Charity.</note> come ſhort of all ſorts of <hi>Proteſtants?</hi> For ſeveral of them, of moſt Eminen<g ref="char:EOLhyphen"/>cy in each,
+<note place="margin">Biſhop <hi>J. <g ref="char:V">Ʋ</g>ſher</hi> Ser<g ref="char:EOLhyphen"/>mon of the Unity of Faith. <hi>Ri. Baxter</hi> in Church Hiſt. <hi>Ju<g ref="char:EOLunhyphen"/>ſtin Martyr. Clem. A<g ref="char:EOLhyphen"/>lex. Chryſoſtom. Lud. Vives. Andradius. T. Aquinas. Lyranus. Collius. Sotus. Canus.</hi> and many others. <hi>Zuinglius.</hi> D. <hi>Potter.</hi> ibid. Author of no Preexiſtence, cites <hi>Luther,</hi> and other <hi>Proteſtants.</hi>
+               </note> have de<g ref="char:EOLhyphen"/>clared, <hi>That They cannot believe, but that many</hi> Papiſts, <hi>tho Living in dark Times and Places, and ſer<g ref="char:EOLhyphen"/>ving</hi> God (which was
+<pb n="19" facs="tcp:150232:10"/>with <hi>Images,</hi> &amp;c.) <hi>were yet Good Men, and accepted in the meaſure of Sincerity in them,</hi> ſuch as <hi>Taulerus, Thomas a Kempis, Gerſon, Francis Sales,</hi> and others. Yea, ſhort of <hi>Papiſts</hi> too in <hi>Charity:</hi> For many of them, as well as <hi>Proteſtants,</hi> and Antient Pri<g ref="char:EOLhyphen"/>mitive <hi>Chriſtians,</hi> their Charity exten<g ref="char:EOLhyphen"/>ded thus far, <hi>viz. <hi>That not only In<g ref="char:EOLhyphen"/>fants, Naturals, Deaf-born, Di<g ref="char:EOLhyphen"/>ſtracted,</hi>
+               </hi> &amp;c. <hi>but alſo</hi> Pagans <hi>before and ſince</hi> Chriſt, <hi>if their Life be Ver<g ref="char:EOLhyphen"/>tuous, morally Honeſt; by</hi> God's Mer<g ref="char:EOLhyphen"/>cy, <hi>and</hi> Chriſt's Merit, <hi>they may be Sa<g ref="char:EOLhyphen"/>ved; becauſe</hi> God <hi>is not tyed to Means.</hi>
+            </p>
+            <p>As for the Woman of <hi>Tekoah,</hi> he is the firſt I have met with, that has diſcom<g ref="char:EOLhyphen"/>mended her as a Lyer, for uſing a form of wiſe Speech,
+<note place="margin">
+                  <hi>See the Parable of the Prophet to</hi> Ahab, <hi>in</hi> 1 Kings 20.39.40. <hi>&amp;c. Bible Contents, Bible Marg. Notes a<g ref="char:EOLhyphen"/>gainſt</hi> 2 Sam. 14. v. 6. <hi>&amp;</hi> v. 20.</note> called a <hi>Parable</hi> (which he over and over calls a <hi>Lying Story</hi>) as <hi>Na<g ref="char:EOLhyphen"/>than</hi> did, yea <hi>Christ;</hi> What Blaſphemy were it to ſay, He ſpake <hi>Lyes,</hi> when He ſpake <hi>Parables?</hi> Let <hi>W. R.</hi> look into his Notes he ſpeaks of
+<pb n="20" facs="tcp:150232:11"/>concerning the Women in 2 <hi>Kings</hi> 23.7. (which none commends, but argues from) of thoſe worthy Men exiled in Queen <hi>Maries</hi> time, and he will find they call that form of Speech a <hi>Pa<g ref="char:EOLhyphen"/>rable,</hi>
+               <note place="margin">
+                  <hi>Aſſembly An<g ref="char:EOLhyphen"/>notations on the ſame.</hi> Villal<g ref="char:EOLhyphen"/>pand, <hi>and o<g ref="char:EOLhyphen"/>thers.</hi>
+               </note> as do alſo the Aſ<g ref="char:EOLhyphen"/>ſembly of Divines, <hi>Villalp.</hi> And I queſtion not any Ju<g ref="char:EOLhyphen"/>dicious Man, if it deſerved enquiry, being ſuch a ri<g ref="char:EOLhyphen"/>diculous Scruple. And as ridiculous it is to Scruple, <hi>Whether there was a Church in</hi> Jacob's <hi>Houſe,</hi> when he told his <hi>Wives</hi> his <hi>Viſion,</hi> and they be<g ref="char:EOLhyphen"/>lieved, and obeyed in following, and exhorted him to return to the promi<g ref="char:EOLhyphen"/>ſed Land, as <hi>Abraham</hi> did, a Figure of the True, was there no Religion in all this? As much Ground to ſay, That there was none in <hi>Iſaac</hi> and <hi>Jacob</hi>'s Bleſ<g ref="char:EOLhyphen"/>ſing their Sons. For here was a Vi<g ref="char:EOLhyphen"/>ſion, and Command of <hi>God,</hi> and <hi>Be<g ref="char:EOLhyphen"/>lief,</hi> and <hi>Obedience</hi> yielded to it. And do <hi>Types</hi> contain <hi>No Religion?</hi> Yes, and alſo fore-ſhew what ſhall ſucceed, as Degeneracy in ſome ſort ſhews what has proceeded, as aforeſaid. The like
+<pb n="21" facs="tcp:150232:11"/>is the ſlighting, and accuſing our Churches or Meetings, with a mixt unqualified number of Younger with the Elder, not excluſive, as they would have them, and of a nominated Select Number of Men, contrary to the Ge<g ref="char:EOLhyphen"/>neral Rule,
+<note place="margin">
+                  <hi>Judicia dehent eſſe publica. See</hi> Fox. Mart.</note> That <hi>Judg<g ref="char:EOLhyphen"/>ments ſhould be publick,</hi> as <hi>J. Philpot</hi> pleaded to <hi>Bon<g ref="char:EOLhyphen"/>ner,</hi> as I remember. And the chooſing at times ſuppoſes not the Excluding,
+<note place="margin">
+                  <hi>Act.</hi> 6.5. &amp; 15.12, 22.</note> but Excuſing of the preſence of the reſt for other Services and Buſineſſes, fitter and incumbent:
+<note place="margin">Magna Char<g ref="char:EOLhyphen"/>ta.</note> our Laws require themſelves to be Read publickly ſeveral times a Year, and Judgements con<g ref="char:EOLhyphen"/>cerning them are publick. Indeed, if the <hi>General Meeting</hi> were frequented by the Bad, and they over-ruled the Good (which is not, nor cannot be proved) then it were to be denied, and ſeparated from.
+<note place="margin">In Theſi.</note> But that will not overthrow the General Meetings of the Churches and the Examples thereof in Scriptures.
+<pb n="22" facs="tcp:150232:12"/>But as for the expediencies of Times, Places, Manner, <hi>&amp;c.</hi> whom may we expect the <hi>Lord</hi> ſhould make uſe of in ordering the Churches, but them that Planted, and ſuch as <hi>God</hi> ſhall raiſe up in the ſame Spirit, according to the Scriptures. He that inſtrumentally called the <hi>Gentiles,</hi> is called <hi>The Apo<g ref="char:EOLhyphen"/>ſtle of the Gentiles.</hi> So of later time,
+<note place="margin">
+                  <hi>Apoſtolus Mechli<g ref="char:EOLhyphen"/>nienſis Pappas Bo<g ref="char:EOLhyphen"/>niface</hi> of <hi>Germany. Sadeel.</hi>
+               </note> our <hi>Brit<g ref="char:EOLhyphen"/>tiſh Rumold</hi> is called the <hi>Apoſtle of that Coun<g ref="char:EOLhyphen"/>try he Converted,</hi> as <hi>Theophylact</hi> of <hi>Bulgaria,</hi> and ſuch others. But if the <hi>Viſion of God</hi> be called in ſuch a one an <hi>Imagination,</hi> and in others that give Teſtimony to it an <hi>Imitation,</hi> there Diſpute by Arguments ceaſes. We own, with <hi>Proteſtants,</hi> the <hi>Scriptures to be the Outward,</hi> but the <hi>Spirit to be the Inward Immediate Iudge of the Church,</hi> and the ſharp Sword that pro<g ref="char:EOLhyphen"/>ceeds out of the Mouth of the Word of <hi>God,</hi> muſt decide that, and hath done it. And the Ear, where it is, Hear; and the ſingle Eye, the Light of the Body, that can, See: And Judge
+<pb n="23" facs="tcp:150232:12"/>who is the <hi>Apoſtate, Schiſmatick,</hi> &amp;c. And who the true Chriſtian, with Chriſt's Spirit: and diſtinguiſh betwixt the Spirits of <hi>Diviſion, Schiſm,</hi> or <hi>He<g ref="char:EOLhyphen"/>reſy,</hi> of a darkned Underſtanding, with a perverſe crooked Will; and the Ten<g ref="char:EOLhyphen"/>der with Weakneſs, and ignorance In<g ref="char:EOLhyphen"/>vincible, as they Term it; and make a Difference between them, even in the ſame Action. We do not with Papiſts, place <hi>Hereſy</hi> and <hi>Schiſm</hi> more in Judgement, than in Will: But con<g ref="char:EOLhyphen"/>feſs, That he that goes againſt his Judge<g ref="char:EOLhyphen"/>ment, though not ſo well informed, Condemneth himſelf; though in going according to his perſwaſion, he alſo of<g ref="char:EOLhyphen"/>ten go amiſs, and is not therein juſtifi<g ref="char:EOLhyphen"/>ed, though winked at; not turned a<g ref="char:EOLhyphen"/>way from, but meekly born with, ad<g ref="char:EOLhyphen"/>moniſhed, and inſtructed, watched, and waited for.</p>
+            <closer>
+               <signed>R. Richardſon.</signed>
+            </closer>
+            <pb n="24" facs="tcp:150232:13"/>
+            <epigraph>
+               <bibl>Obadiah, ver. 3.</bibl>
+               <q>The Pride of thine Heart hath Deceived thee,</q>
+               <bibl>&amp;c. ver. 4.</bibl>
+               <q>Though thou Exalt thy ſelf, as the Eagle, and though thou ſet thy Neſt among the Stars; thence will I bring thee down, ſaith the Lord.</q>
+            </epigraph>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>John Bringhurſt,</hi> at the Signe of the <hi>Book</hi> in <hi>Grace-Church-Street.</hi> 1681.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
